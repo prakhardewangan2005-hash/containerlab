@@ -1,4 +1,4 @@
-## Custom Work by Prakhar Dewangan (Cisco ASE Prep)
+## Custom Work by Prakhar Dewangan (ASE Prep)
 
 A focused fork to learn **containerlab internals**, build **customer-ready enterprise labs**, and practice **systems engineering workflows** (design → demo → validate → troubleshoot).
 
